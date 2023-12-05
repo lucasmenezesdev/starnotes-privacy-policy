@@ -3,7 +3,7 @@
 <head>
   <meta charset='utf-8'>
   <meta name='viewport' content='width=device-width'>
-  <title>Política de Privacidade</title>
+  <h1>Política de Privacidade</h1>
   <style> 
     body { 
       font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
