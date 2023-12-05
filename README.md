@@ -6,6 +6,7 @@
   <h1>Política de Privacidade</h1>
 </head>
 <body>
+<strong>Política de Privacidade</strong> <p>
 <p>
   Lucas Menezes Costa desenvolveu o aplicativo StarNotes como
   um aplicativo gratuito. Este SERVIÇO é fornecido por
