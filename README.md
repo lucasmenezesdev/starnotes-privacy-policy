@@ -4,12 +4,6 @@
   <meta charset='utf-8'>
   <meta name='viewport' content='width=device-width'>
   <h1>Política de Privacidade</h1>
-  <style> 
-    body { 
-      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
-      padding: 1em; 
-    } 
-  </style>
 </head>
 <body>
 <strong>Política de Privacidade</strong> 
